@@ -1,0 +1,26 @@
+{
+  "name": "evm-wallet",
+  "version": "0.0.1",
+  "description": "Lib to support web3 wallet with different key-providers",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckshitij/evm-wallet.git"
+  },
+  "keywords": [
+    "web3-wallet",
+    "key-provider"
+  ],
+  "author": "Kshitij Chaurasiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckshitij/evm-wallet/issues"
+  },
+  "homepage": "https://github.com/ckshitij/evm-wallet#readme",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
